@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/Interfaces/COMUNA.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/Modelo/User.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/web/index.jsp</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/Modelo/Comuna.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/ModeloDAO/PersonaDAO.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/ModeloDAO/ComunaDAO.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/web/vistas/Users/edit.jsp</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/Controller/UsersController.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/Controller/ComunasController.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/web/vistas/Users/add.jsp</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/Config/Conexion.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/src/java/Interfaces/USER.java</file>
+            <file>file:/Users/jmejias/NetBeansProjects/CRUD-MVC-JAVA/web/vistas/Users/listar.jsp</file>
+        </group>
+    </open-files>
+</project-private>
