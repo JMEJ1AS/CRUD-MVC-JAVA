@@ -42,7 +42,7 @@
                             <div class="form-group">
                                 <!-- Button -->
                                 <div class="col-sm-12">
-                                    <input class="btn btn-success btn-group-justified" type="submit" name="accion" value="Login">
+                                    <input class="btn btn-success btn-group-justified" type="submit" name="accion" value="Authenticar">
                                 </div>
                             </div>
                         </form>     
